@@ -1,0 +1,149 @@
+
+body {
+    background-image: url('../imatges/catpattern.png');
+}
+footer {
+    background-color: #6a8bc3;
+}
+img.banner {
+    width: 100%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+img.welcome {
+    width: 97%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 2%;
+}
+img.try {
+    width: 95%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: auto;
+    margin-top: 2%;
+}
+div.font {
+    font-family:'Arial Rounded MT';
+}
+div.foot {
+    font-family:'Arial Rounded MT';
+    color: azure;
+}
+p.title {
+    font-size: 20px;
+}
+p.data {
+    font-size: 15px;
+    margin-left: 32px;
+    margin-right: 32px;
+}
+div.card {
+    width: 40%;
+}
+div.pop {
+  display: flex;
+  justify-content: center;
+  align-items:stretch;
+  row-gap: 10px;
+  column-gap: 20px;
+  flex-wrap: wrap;
+  margin-bottom: 15px;
+}
+div.popi {
+    display: flex;
+    justify-content: center;
+    align-items:stretch;
+    margin-bottom: 5px;
+}
+div.titulet {
+    display: flex;
+    justify-content: center;
+    align-items:stretch;
+}
+p.review {
+    font-family:'Arial Rounded MT';
+    color: azure;
+}
+p.resposta {
+    font-family:'Arial Rounded MT';
+    color: black;
+}
+h1.termes {
+    font-family:'Arial Rounded MT';
+    font-size: 22px;
+    color:aliceblue;
+}
+h2.termes {
+    font-family:'Arial Rounded MT';
+    font-size: 19px;
+    color:aliceblue;
+}
+h3.termes {
+    font-family:'Arial Rounded MT';
+    font-size: 17px;
+    color:aliceblue;
+}
+p.termes {
+    font-family:'Arial Rounded MT';
+    font-size: 14px;
+    color:aliceblue;
+}
+img.institucio {
+    width: 95%;
+    padding-bottom: 20px;
+}
+h2.insti {
+    font-family:'Arial Rounded MT';
+    font-size: 19px;
+    color:aliceblue;
+    margin-left: 40px;
+    margin-right: 40px;
+}
+img.institucio2 {
+    width: 35%;
+    padding-bottom: 20px;
+}
+h1.punts {
+    font-family:'Arial Rounded MT';
+    font-size: 45px;
+    color:aliceblue;
+}
+table {
+    font-family:'Arial Rounded MT';
+    border-collapse: collapse;
+    width: 100%;
+}
+th.first {
+    border: 1px solid #dddddd;
+    text-align: center;
+    padding: 8px;
+    background-color: #6179f5;
+}
+td, th {
+    border: 1px solid #dddddd;
+    text-align: center;
+    padding: 8px;
+}
+tr:nth-child(even) {
+    background-color: #95a2e6;
+}
+tr:nth-child(odd) {
+    background-color: #5464b3;
+}
+div.popu {
+    display: flex;
+    justify-content: center;
+    align-items:stretch;
+    margin-bottom: 20px;
+    margin-left: 55px;
+    margin-right: 55px;
+}
+p.profes {
+    font-family:'Arial Rounded MT';
+    color: azure;
+    font-size: 20px;
+}
