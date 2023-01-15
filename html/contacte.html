@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
+        <link rel="stylesheet" href="https://www.w3schools.com/lib/w3-theme-indigo.css">
+        <link rel="stylesheet" href="../estils/EAF2_Ian.css">
+        <link rel="stylesheet" href="https://www.w3schools.com/lib/w3-theme-indigo.css">
+        <title>Contacte</title>
+    </head>
+    <header>
+        <div class="w3-center">
+            <img src="../imatges/banner_long.png" alt="Institut Gatarrella" class="banner">
+        </div>  
+        <div class="font menu w3-row w3-large">
+            <a href="./index.html" class="w3-col w3-button w3-quarter w3-theme-l3"><p>Inici</p></a>
+            <a href="./institucio.html" class="w3-col w3-button w3-quarter w3-theme-l3"><p>Institució</p></a>
+            <a href="./professorat.html" class="w3-col w3-button w3-quarter w3-theme-l3"><p>Professorat</p></a>
+            <a href="./.html" class="w3-col w3-button w3-quarter w3-theme-l3"><p>Professorat</p></a>
+        </div>
+    </header>
+    <body>
+        <div class="w3-row-padding pop">
+            <div class="w3-third w3-margin-top">
+                <div class="w3-container w3-card-4 w3-theme-l1 w3-center w3-padding">
+                    <form>
+                        <p class="review w3-large">Nom</p>
+                        <input type="text" placeholder="Escriu aqui el teu nom"><br>
+                        <p class="review w3-large">Cognoms</p>
+                        <input type="text" placeholder="Escriu aqui el teu cognom"><br>
+                        <p class="review w3-large">Correu electrónic</p>
+                        <input type="text" placeholder="Escriu aqui el teu email"><br>
+                        <p class="review w3-large">Telefon</p>
+                        <input type="text" placeholder="Escriu un teléfon"><br>
+                        <p class="review w3-large">Missatge</p>
+                        <input style="height:200px; width: 400px;"><br>
+                        <br><input type="reset" class="input w3-round-large" onclick="document.getElementById('enviat').style.display='block'" value="Enviar">
+                    </form>
+                    <div id="enviat" class="w3-modal">
+                        <div class="w3-modal-content">
+                            <div class="w3-card-4 w3-center w3-xxlarge">
+                                <span onclick="document.getElementById('enviat').style.display='none'"
+                                class="w3-button w3-display-topright">&times;</span>
+                                <div class="w3-padding-16 w3-large w3-center">
+                                    <p class="resposta w3-large">El formulari s'ha enviat! Et respondrem mitjançant correu electrònic.</p>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>       
+        </div>
+    </body>
+    <footer class="w3-container w3-center w3-row">
+        <div class="foot w3-center w3-container w3-margin">
+            <p class="title">Informació bàsica sobre el tractament de dades  (Reglament (UE) 2016/679)</p>
+            <p class="data">El responsable del tractament de la informació és el Centre Escolar que realitza la gestió acadèmica, amb la finalitat de l'exercici de la seva funció docent i orientadora, legitimat pel consentiment atorgat per l'usuari al Centre Escolar.</p>
+            <a href="./contacte.html" class="data">Contacte</a><br>
+            <a href="./termes.html" class="data">Política de privacitat completa</a>
+        </div>
+    </footer>
+</html>

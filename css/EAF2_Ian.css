@@ -1,0 +1,77 @@
+body {
+    background-image: url('../imatges/catpattern.png');
+}
+p {
+    font-family:'Arial Rounded MT';
+}
+footer {
+    background-color: #6a8bc3;
+}
+img.banner {
+    width: 100%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+img.welcome {
+    width: 97%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 2%;
+}
+div.font {
+    font-family:'Arial Rounded MT';
+}
+div.foot {
+    font-family:'Arial Rounded MT';
+    color: azure;
+}
+p.title {
+    font-family:'Arial Rounded MT';
+    font-size: 20px;
+}
+p.data {
+    font-size: 15px;
+    margin-left: 32px;
+    margin-right: 32px;
+}
+div.card {
+    background-color: #6a8bc3;
+}
+div.color {
+    background-color: #b4caf2;
+}
+a.data {
+    font-size: 15px;
+    margin-left: 32px;
+    margin-right: 32px;
+}
+div.margin {
+    margin-left: 50px;
+    margin-right: 50px;
+}
+div.contacte {
+    width: 320px;
+    padding: 10px;
+    border: 5px solid gray;
+    margin: 0;
+}
+p.form {
+    font-family:'Arial Rounded MT';
+    color: #6a8bc3;
+    font-size: 20px;
+}
+form.form {
+    font-family:'Arial Rounded MT';
+    color: #6a8bc3;
+    font-size: 20px;
+}
+label.testing {
+    font-family:'Arial Rounded MT';
+    color: #6a8bc3;
+    font-size: 20px;
+}
+img.cardpic {
+    width: 20px;
+}
