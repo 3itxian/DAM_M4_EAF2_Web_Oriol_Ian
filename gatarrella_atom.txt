@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+    <title>Treball de l'Ian</title>
+    <link>http://example.com/</link>
+    <author>
+	<name>Ian Oriol</name>
+    </author>
+    <id>urn:uuid:60a76c80-d399-11d9-b93C-0003939e0af6</id>
+
+    <entry>
+       <title>S'ha afegit la pàgina d'inici!</title>
+       <link>https://3itxian.github.io/DAM_M4_EAF2_Web_Oriol_Ian/html/index.html</link>
+       <id>urn:uuid:1225c695-cfb8-4ebb-aaaa-80da344efa6a</id>
+       <updated>2003-12-13T18:30:02Z</updated>
+       <summary>S'ha afegit la pàgina d'inici de la Gatarrella.</summary>
+    </entry>
+
+    <entry>
+       <title>S'ha afegit el formulari de contacte!</title>
+       <link>https://3itxian.github.io/DAM_M4_EAF2_Web_Oriol_Ian/html/contacte.html</link>
+       <id>urn:uuid:1225c695-cfb8-4ebb-aaaa-80da344efa6a</id>
+       <updated>2003-12-13T18:30:02Z</updated>
+       <summary>S'ha afegit el formulari de contacte de la Gatarrella.</summary>
+    </entry>
+
+    <entry>
+       <title>S'ha afegit informació de la institució!</title>
+       <link>https://3itxian.github.io/DAM_M4_EAF2_Web_Oriol_Ian/html/institucio.html</link>
+       <id>urn:uuid:1225c695-cfb8-4ebb-aaaa-80da344efa6a</id>
+       <updated>2003-12-13T18:30:02Z</updated>
+       <summary>S'ha afegit informació de la institució de la Gatarrella.</summary>
+    </entry>
+
+</feed>
