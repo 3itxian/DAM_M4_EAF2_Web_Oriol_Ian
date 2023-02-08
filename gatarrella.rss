@@ -1,0 +1,22 @@
+<rss version="2.0">
+  <channel>
+    <title>Treball de l'Ian</title>
+    <link>http://example.com/</link>
+    <description>Treball per al Ferran Eloi de l'Ian Oriol.</description>
+    <item>
+       <title>S'ha afegit la pàgina d'inici!</title>
+       <link>https://3itxian.github.io/DAM_M4_EAF2_Web_Oriol_Ian/html/index.html</link>
+       <description>S'ha afegit la pàgina d'inici de la Gatarrella.</description>
+    </item>
+    <item>
+       <title>S'ha afegit el formulari de contacte!</title>
+       <link>https://3itxian.github.io/DAM_M4_EAF2_Web_Oriol_Ian/html/contacte.html</link>
+       <description>S'ha afegit el formulari de contacte de la Gatarrella.</description>
+    </item>
+    <item>
+       <title>S'ha afegit informació de la institució!</title>
+       <link>https://3itxian.github.io/DAM_M4_EAF2_Web_Oriol_Ian/html/institucio.html</link>
+       <description>S'ha afegit informació de la institució de la Gatarrella.</description>
+    </item>
+  </channel>
+</rss>
